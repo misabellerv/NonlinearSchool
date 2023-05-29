@@ -7,11 +7,11 @@ This project was carried out for the School on Nonlinear Dynamics, Complex Netwo
 Simulation of chain behavior of neuron spikes using the reference [1].
 You can change main parameters and view different synchronization thresholds.
 
-## :wrench: Tecnologies
+## :wrench: :Tecnologies
 * Python;
 * Matlab;
 
-## :rocket: Running the project
+## :rocket: : Running the project
 You can clone it, and then choose if you want to try the experimental part (.ipynb), or run the main code (.py) to see the results straightforward.
 
 ## :handshake:Collaborators
